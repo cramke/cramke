@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cramke
-- 👀 I’m interested in robotics and drones and everything autonmous
-- 🌱 I’m currently learning ROS, Rust
+- 👀 I’m interested in robotics, drones and everything autonomous
+- 🌱 I’m currently learning ROS2, Rust
 - 💞️ I’m looking to participate in my first Open Source projects
 - 📫 How to reach me ...
 
